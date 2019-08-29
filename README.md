@@ -1,1 +1,2 @@
-# sottlai.github.io
+# Scott Lai
+Hello this is Scott's website
